@@ -1,2 +1,2 @@
 # dispatch
-File sharing platform
+File sharing web platform
